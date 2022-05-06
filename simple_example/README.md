@@ -1,6 +1,7 @@
 # simple_example
 
-A new Flutter project.
+Simple page Log in Phone number + Password
+UI only no back-end logic
 
 ## Getting Started
 
